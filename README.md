@@ -9,7 +9,6 @@ A simple book management system built in Dart, allowing users to manage and orga
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [How to Use](#how-to-use)
-- [Book Management Operations](#book-management-operations)
 - [License](#license)
 
 ## Demo
@@ -39,7 +38,7 @@ To get a copy of this project up and running on your local machine, follow these
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Danidu2000/book-management-system.git
+    git clone https://github.com/Danidu2000/book_management_system.git
     ```
 
 2. Open the project folder:
